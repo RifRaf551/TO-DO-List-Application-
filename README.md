@@ -4,3 +4,4 @@ Very simple to-do list app.
 Starts with 2 example items.
 Enter text and hit enter key to add new items.
 Click on items to toggle completed status.
+To-do list uses local storage, items are available as long as browser cache is not cleared.
